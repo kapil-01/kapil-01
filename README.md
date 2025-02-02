@@ -50,22 +50,3 @@
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik-gupta-2022&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ritik-gupta-2022" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-gupta-2022&show_icons=true&locale=en&theme=tokyonight" alt="ritik-gupta-2022" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-gupta-2022&theme=tokyonight" alt="ritik-gupta-2022" /></p>
-
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ritik-gupta-2022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
----
